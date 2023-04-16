@@ -1,0 +1,28 @@
+*body{
+    background-color: #addd;
+    text-align: center;
+} 
+div.main{ 
+    width: 300px;
+    margin: 180px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 130%;
+    padding: 14%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px soid rgba(255,255,255,0.3);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+form#register{
+    margin: 40px;
+}
+input#name{
+    width: 200px;
+}
